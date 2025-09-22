@@ -1,2 +1,0 @@
-# Wether-Finder
-Wether-Finder
